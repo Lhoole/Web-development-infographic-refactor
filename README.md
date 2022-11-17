@@ -11,6 +11,8 @@ Not Required.
 
 ## Usage
 
+Access via browser at: https://lhoole.github.io/Web-development-infographic-refactor/ to view.
+
 To provide advice on web design concepts
 
 ![Screenshot](assets/images/screenshot.png)
